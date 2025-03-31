@@ -3,3 +3,4 @@
 __pycache__
 labeled_dataset
 sample stabilization test projections
+dif_model.keras
